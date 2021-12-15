@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Ashok Kumar</h1>
 <h4 align="left">I want to work as a Full Stack (MERN) Developer</h3>
 
-📫 Email: **ashoknaidu.992@gmail.com**
+📫 Email: **thumuashok24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
